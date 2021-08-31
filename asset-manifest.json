@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/priqh2client/static/css/main.167ad580.chunk.css",
+    "main.js": "/priqh2client/static/js/main.31631427.chunk.js",
+    "main.js.map": "/priqh2client/static/js/main.31631427.chunk.js.map",
+    "runtime-main.js": "/priqh2client/static/js/runtime-main.27435aea.js",
+    "runtime-main.js.map": "/priqh2client/static/js/runtime-main.27435aea.js.map",
+    "static/css/2.df09e41f.chunk.css": "/priqh2client/static/css/2.df09e41f.chunk.css",
+    "static/js/2.763a2dc4.chunk.js": "/priqh2client/static/js/2.763a2dc4.chunk.js",
+    "static/js/2.763a2dc4.chunk.js.map": "/priqh2client/static/js/2.763a2dc4.chunk.js.map",
+    "index.html": "/priqh2client/index.html",
+    "static/css/2.df09e41f.chunk.css.map": "/priqh2client/static/css/2.df09e41f.chunk.css.map",
+    "static/css/main.167ad580.chunk.css.map": "/priqh2client/static/css/main.167ad580.chunk.css.map",
+    "static/js/2.763a2dc4.chunk.js.LICENSE.txt": "/priqh2client/static/js/2.763a2dc4.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/priqh2client/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.css": "/priqh2client/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27435aea.js",
+    "static/css/2.df09e41f.chunk.css",
+    "static/js/2.763a2dc4.chunk.js",
+    "static/css/main.167ad580.chunk.css",
+    "static/js/main.31631427.chunk.js"
+  ]
+}
