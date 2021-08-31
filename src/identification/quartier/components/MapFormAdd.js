@@ -2,9 +2,9 @@ import React from 'react'
 import Select from 'react-select'
 import makeAnimated from 'react-select/animated'
 import { Container, Card, Button, Modal } from 'react-bootstrap';
-import { Map as MapContainer  , Marker, Popup, TileLayer, Polygon, FeatureGroup, LayersControl, ZoomControl} from "react-leaflet2";
+import { Map as MapContainer  , Marker, Popup, TileLayer, Polygon, FeatureGroup, LayersControl, ZoomControl} from "react-leaflet";
 import * as turf from '@turf/turf'
-import { EditControl } from "react-leaflet-draw19"
+import { EditControl } from "react-leaflet-draw"
 import axios from 'axios'
 
 const {BaseLayer} = LayersControl;

@@ -1,5 +1,5 @@
 import React from "react";
-import { MapContainer , Marker, Popup, TileLayer, Polygon, Tooltip, LayersControl, ZoomControl} from "react-leaflet";
+import { MapContainer , Marker, Popup, TileLayer, Polygon, Tooltip, LayersControl, ZoomControl} from "react-leaflet3";
 import { Container, Button, Row, Col, Modal } from 'react-bootstrap';
 import axios from 'axios';
 import FeatherIcon from 'feather-icons-react';

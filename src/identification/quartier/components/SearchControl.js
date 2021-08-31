@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useMap } from "react-leaflet";
+import { useMap } from "react-leaflet3";
 import { GeoSearchControl } from "leaflet-geosearch";
 
 const SearchControl = props => {
