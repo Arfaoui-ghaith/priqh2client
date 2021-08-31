@@ -1,0 +1,13 @@
+@media only screen and (max-width: 700px) {
+    #world_map {
+      min-width: 180px;
+      margin-left: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .col-9 {
+
+      min-width: 100%;
+    }
+  } 
